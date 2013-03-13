@@ -14,6 +14,6 @@ public class SemestralniPrace {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Okno okno = new Okno();
     }
 }
