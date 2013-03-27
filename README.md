@@ -1,4 +1,15 @@
 A0B36PR2
 ========
 
-SemestrÃ¡lnÃ­ prÃ¡ce do pÅ™edmÄ›tu A0B36PR2
+Semestrální práce pøedmìtu A0B36PR2
+
+
+Piškvorky
+
+Hra pro dva hráèe vèetnì grafického uivatelského rozhraní s moností multiplayerové hry po síti.
+
+-Program zobrazí hrací pole s aktuálnì obsazenımi pozicemi (rozlišitelné podle hráèù), v kadém tahu hráè zadává pozici, kterou chce obsadit (kliknutím na pøíslušné políèko).
+-Program kontroluje, zda poadovaná pozice není obsazená a zda nìjakı hráè vyhrál.
+-Velikost hracího pole se zadává pøed zaèátkem hry.
+-Monost uloení a naètení rozehrané hry.
+
